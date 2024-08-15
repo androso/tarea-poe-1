@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andro\\source\\repos\\anibal-andrade-sol\\group2\\group2.csproj",
-      "projectName": "group2",
-      "projectPath": "C:\\Users\\andro\\source\\repos\\anibal-andrade-sol\\group2\\group2.csproj",
+      "projectUniqueName": "C:\\Users\\andro\\source\\repos\\anibal-andrade-sol\\group2\\ejercicio3.csproj",
+      "projectName": "ejercicio3",
+      "projectPath": "C:\\Users\\andro\\source\\repos\\anibal-andrade-sol\\group2\\ejercicio3.csproj",
       "packagesPath": "C:\\Users\\andro\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\andro\\source\\repos\\anibal-andrade-sol\\group2\\obj\\",
       "projectStyle": "PackageReference",

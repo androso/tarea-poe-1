@@ -31,3 +31,4 @@ C:\Users\andro\source\repos\anibal-andrade-sol\group2\obj\Debug\net8.0-windows\r
 C:\Users\andro\source\repos\anibal-andrade-sol\group2\obj\Debug\net8.0-windows\group2.pdb
 C:\Users\andro\source\repos\anibal-andrade-sol\group2\obj\Debug\net8.0-windows\group2.genruntimeconfig.cache
 C:\Users\andro\source\repos\anibal-andrade-sol\group2\obj\Debug\net8.0-windows\ref\group2.dll
+C:\Users\andro\source\repos\anibal-andrade-sol\group2\obj\Debug\net8.0-windows\group2.sourcelink.json
