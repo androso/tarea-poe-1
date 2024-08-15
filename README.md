@@ -6,7 +6,7 @@ Isaac Natanael Romero Medrano - U20230689
 Rosmeo Mauricio Villalobos Parada - U20230588
 
 ## Division de ejercicios
-Ejercicio 1 -> Mauricio
+Ejercicio 1 -> Isaac
 <br /> 
 Ejercicio 2 -> Mauricio
 <br /> 
@@ -14,7 +14,7 @@ Ejercicio 3 -> Anibal
 <br /> 
 Ejercicio 4 -> Anibal
 <br /> 
-Ejercicio 5 -> Isaac 
+Ejercicio 5 -> Mauricio
 <br /> 
 Ejercicio 6 -> Isaac 
 <br /> 
