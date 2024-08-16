@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zack\\source\\repos\\isaac-medrano-sol\\InteresCompuestoUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB071BD8-8FCF-4DD9-B597-169723404E9D}|InteresCompuestoUI\\InteresCompuestoUI.csproj|c:\\users\\zack\\source\\repos\\isaac-medrano-sol\\interescompuestoui\\interescompuestoui\\interescompuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB071BD8-8FCF-4DD9-B597-169723404E9D}|InteresCompuestoUI\\InteresCompuestoUI.csproj|solutionrelative:interescompuestoui\\interescompuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB071BD8-8FCF-4DD9-B597-169723404E9D}|InteresCompuestoUI\\InteresCompuestoUI.csproj|c:\\users\\zack\\source\\repos\\isaac-medrano-sol\\interescompuestoui\\interescompuestoui\\interescompuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB071BD8-8FCF-4DD9-B597-169723404E9D}|InteresCompuestoUI\\InteresCompuestoUI.csproj|solutionrelative:interescompuestoui\\interescompuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB071BD8-8FCF-4DD9-B597-169723404E9D}|InteresCompuestoUI\\InteresCompuestoUI.csproj|c:\\users\\zack\\source\\repos\\isaac-medrano-sol\\interescompuestoui\\interescompuestoui\\interescompuesto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB071BD8-8FCF-4DD9-B597-169723404E9D}|InteresCompuestoUI\\InteresCompuestoUI.csproj|solutionrelative:interescompuestoui\\interescompuesto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InteresCompuesto.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Zack\\source\\repos\\isaac-medrano-sol\\InteresCompuestoUI\\InteresCompuestoUI\\InteresCompuesto.Designer.cs",
+              "RelativeDocumentMoniker": "InteresCompuestoUI\\InteresCompuesto.Designer.cs",
+              "ToolTip": "C:\\Users\\Zack\\source\\repos\\isaac-medrano-sol\\InteresCompuestoUI\\InteresCompuestoUI\\InteresCompuesto.Designer.cs",
+              "RelativeToolTip": "InteresCompuestoUI\\InteresCompuesto.Designer.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAjwGYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T23:12:53.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InteresCompuesto.cs",
+              "DocumentMoniker": "C:\\Users\\Zack\\source\\repos\\isaac-medrano-sol\\InteresCompuestoUI\\InteresCompuestoUI\\InteresCompuesto.cs",
+              "RelativeDocumentMoniker": "InteresCompuestoUI\\InteresCompuesto.cs",
+              "ToolTip": "C:\\Users\\Zack\\source\\repos\\isaac-medrano-sol\\InteresCompuestoUI\\InteresCompuestoUI\\InteresCompuesto.cs",
+              "RelativeToolTip": "InteresCompuestoUI\\InteresCompuesto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T22:53:44.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InteresCompuesto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Zack\\source\\repos\\isaac-medrano-sol\\InteresCompuestoUI\\InteresCompuestoUI\\InteresCompuesto.cs",
+              "RelativeDocumentMoniker": "InteresCompuestoUI\\InteresCompuesto.cs",
+              "ToolTip": "C:\\Users\\Zack\\source\\repos\\isaac-medrano-sol\\InteresCompuestoUI\\InteresCompuestoUI\\InteresCompuesto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "InteresCompuestoUI\\InteresCompuesto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T22:51:17.67Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
