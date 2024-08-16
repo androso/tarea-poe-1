@@ -58,9 +58,10 @@
             // trackBar1
             // 
             trackBar1.Location = new Point(60, 176);
+            trackBar1.Maximum = 20;
             trackBar1.Minimum = 1;
             trackBar1.Name = "trackBar1";
-            trackBar1.Size = new Size(130, 56);
+            trackBar1.Size = new Size(182, 56);
             trackBar1.TabIndex = 2;
             trackBar1.Value = 1;
             trackBar1.Scroll += trackBar1_Scroll;
@@ -78,7 +79,7 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(196, 176);
+            label3.Location = new Point(236, 176);
             label3.Name = "label3";
             label3.Size = new Size(109, 20);
             label3.TabIndex = 4;
